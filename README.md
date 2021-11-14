@@ -1,1 +1,1 @@
-## A Food Ordering App
+## A Dummy Food Ordering App
